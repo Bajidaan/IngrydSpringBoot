@@ -1,0 +1,8 @@
+# Get all Java student
+GET http://localhost:8081/api/v1/students/getAll
+
+GET http://localhost:8081/api/v1/students/getAll
+
+# Get Java Student with id 4
+GET http://localhost:8081/api/v1/student/getById/4
+
